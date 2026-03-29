@@ -1,0 +1,5 @@
+{
+    "luau-lsp.platform.type": "roblox",
+    "luau-lsp.completion.imports.enabled": true,
+    "editor.formatOnSave": true
+}
